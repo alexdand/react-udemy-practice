@@ -1,0 +1,21 @@
+.header {
+  background-color: darkslateblue;
+  display: flex;
+  color: #fff;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+}
+
+.header span {
+  font-size: 2em;
+}
+
+.header ul {
+  list-style: none;
+  display: flex;
+}
+
+.header ul li {
+  margin: 5px;
+}
